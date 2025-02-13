@@ -7,8 +7,15 @@
 </p>
 
 <!-- <h3 align="center">A passionate frontend developer from Egypt</h3> -->
-🎓 I’m a Computer Science student at FCI_ZU.<br><br>💻 I’m a Web Developer and passionate about Competitive Programming.<br><br>🛠️ I’m currently working on Next.js projects.<br><br>👷 I want to collaborate on frontend projects using React and Next.js.<br><br>🤝 I’m seeking help with advanced backend development and optimizing API performance.<br><br>🌱 I’m currently learning Backend Technologies.<br><br>💬 Ask me about React and Next.js.<br><br>⚡ Fun fact: I won the NASA Space Apps Cairo competition with my team Skybounds! 🚀
+🎓 I’m a Computer Science student at FCI_ZU.<br><br>
+💻 I’m a Web Developer and passionate about Competitive Programming.<br><br>
+🛠️ I’m currently working on Next.js projects.<br><br>
+👷 I want to collaborate on frontend projects using React and Next.js.<br><br>
+🤝 I’m seeking help with advanced backend development and optimizing API performance.<br><br>
+🌱 I’m currently learning Backend Technologies.<br><br>💬 Ask me about React and Next.js.<br><br>
+⚡ Fun fact: I won the NASA Space Apps Cairo competition with my team Skybounds! 🚀
 
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%">
 ## 🌐 Connect with me:
 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmedwagih02) -->
