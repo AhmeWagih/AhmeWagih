@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer;ReactJs%20NextJs;&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22"></a>
   
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmeWagih&label=Profile%20views&style=flat" alt="AhmeWagih"/> </p>
+  <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmeWagih&label=Profile%20views&style=flat" alt="AhmeWagih"/> </p> -->
 </p>
 
 <!-- <h3 align="center">A passionate frontend developer from Egypt</h3> -->
