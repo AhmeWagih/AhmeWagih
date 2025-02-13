@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Wagih</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer;ReactJs%20NextJs;&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer;ReactJs%20||%20NextJs;&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22"></a>
   
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=AhmeWagih&label=Profile%20views&style=flat" alt="AhmeWagih"/> </p>
 </p>
