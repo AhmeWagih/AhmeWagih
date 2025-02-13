@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ahmed Wagih</h1><h3 align="center">A passionate frontend developer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Ahmed Wagih</h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer;ReactJs NextJs;&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&size=22"></a>
+  
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=AhmeWagih&label=Profile%20views&style=flat" alt="AhmeWagih"/> </p>
+</p> 
+
+<h3 align="center">A passionate frontend developer from Egypt</h3>
 🎓 I’m a Computer Science student at FCI_ZU.<br><br>💻 I’m a Web Developer and passionate about Competitive Programming.<br><br>🛠️ I’m currently working on Next.js projects.<br><br>👷 I want to collaborate on frontend projects using React and Next.js.<br><br>🤝 I’m seeking help with advanced backend development and optimizing API performance.<br><br>🌱 I’m currently learning Backend Technologies.<br><br>💬 Ask me about React and Next.js.<br><br>⚡ Fun fact: I won the NASA Space Apps Cairo competition with my team Skybounds! 🚀
 
 
