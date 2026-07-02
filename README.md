@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  🎓 CS Graduate &nbsp;|&nbsp; 💻 Web Developer &amp;|&nbsp; ⚡ NASA Space Apps Winner &nbsp;|&nbsp; ☁️ AWS Certified Cloud Practitioner
+  🎓 CS Graduate &nbsp;|&nbsp; 💻 Web Developer |&nbsp; ⚡ NASA Space Apps Winner &nbsp;|&nbsp; ☁️ AWS Certified Cloud Practitioner
 </p>
 
 ---
